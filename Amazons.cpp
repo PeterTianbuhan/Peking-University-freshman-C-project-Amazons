@@ -1,6 +1,5 @@
 #include <iostream>     // cin, cout, endl
 #include <iomanip>      // setw 画棋盘
-#include <vector>       // vector 
 #include <string>       // string
 #include <algorithm>    // max, min, sort
 #include <cmath>        // abs, sqrt
